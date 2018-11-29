@@ -1,0 +1,126 @@
+{
+    "status":"0",
+    "city": "北京",
+    "data": {
+    "swiperlist": [
+      {
+        "id":"001",
+        "imgurl":"./../../../../static/imag/qingshe_950x423.jpg"
+      },
+      {
+        "id":"002",
+        "imgurl":"./../../../../static/imag/qingshe_950x423.jpg"
+      },
+      {
+        "id":"003",
+        "imgurl":"./../../../../static/imag/qingshe_950x423.jpg"
+      }
+
+    ],
+    "iconlist": [
+      {
+      "id": "001",
+      "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+    },
+      {
+        "id": "002",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      },
+      {
+        "id": "003",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      },
+      {
+        "id": "004",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      },
+      {
+        "id": "005",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      },
+      {
+        "id": "006",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      },
+      {
+        "id": "007",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      },
+      {
+        "id": "008",
+        "imgurl": "./../../../../static/imag/300r0g0000007p21gDFF5_C_500_280.jpg"
+      }
+    ],
+    "remcomentList":
+    [
+      {
+        "id": "0001",
+        "imgurl": "./../../../../static/imag/shanghai.jpg",
+        "title": "故宫",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      },
+      {
+        "id": "0001",
+        "imgurl": "./../../../../static/imag/shanghai.jpg",
+        "title": "故宫",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      },
+      {
+        "id": "0001",
+        "imgurl": "./../../../../static/imag/shanghai.jpg",
+        "title": "故宫",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      },
+      {
+        "id": "0001",
+        "imgurl": "./../../../../static/imag/shanghai.jpg",
+        "title": "故宫",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      },
+      {
+        "id": "0001",
+        "imgurl": "./../../../../static/imag/shanghai.jpg",
+        "title": "故宫",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      },
+      {
+        "id": "0001",
+        "imgurl": "./../../../../static/imag/shanghai.jpg",
+        "title": "故宫",
+        "desc": "东方宫殿建筑代表，世界宫殿建筑典范"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "0001",
+        "imgUrl": "./../../../../static/imag/n1_pic_02.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "0001",
+        "imgUrl": "./../../../../static/imag/n1_pic_02.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "0001",
+        "imgUrl": "./../../../../static/imag/n1_pic_02.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "0001",
+        "imgUrl": "./../../../../static/imag/n1_pic_02.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      },
+      {
+        "id": "0001",
+        "imgUrl": "./../../../../static/imag/n1_pic_02.jpg",
+        "title": "北京温泉排行榜",
+        "desc": "细数北京温泉，温暖你的冬天"
+      }
+    ]
+  }
+}
